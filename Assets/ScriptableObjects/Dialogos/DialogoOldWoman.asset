@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4144c226089a78c4fa626b24209c91e1, type: 3}
+  m_Name: DialogoOldWoman
+  m_EditorClassIdentifier: 
+  Nombre: Curly Dadan
+  Icono: {fileID: 21300000, guid: 9bb854bff578a9848bb5ab65bcacc7e8, type: 3}
+  ContieneInteraccionExtra: 0
+  InteraccionExtra: 0
+  Saludo: 'Luffy... bakara. '
+  Conversacion:
+  - Oracion: 'No matter what kind of pirate he becomes, I''ll always be on his side... '
+  - Oracion: My heart is already in pieces for just thinking of what he's feeling
+      now...
+  - Oracion: LUFFY!! DON'T LET IT BRING YOU DOWN!!
+  Despedida: I feel like I miss that idiot...

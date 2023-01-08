@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d38db6ad4293e40805751053f731e5, type: 3}
+  m_Name: ItemArmaLibro
+  m_EditorClassIdentifier: 
+  ID: ArmaLibro
+  Nombre: Libro de Magia
+  Icono: {fileID: 21300000, guid: a0d1659ad7cfa4a408fb5bad034f4553, type: 3}
+  Descripcion: Libro de Magia del Fuego que permite lanzar bolas de fuego hacia los
+    enemigos.
+  Tipo: 0
+  EsConsumible: 0
+  EsAcumulable: 0
+  AcumulacionMax: 1
+  Cantidad: 0
+  Arma: {fileID: 11400000, guid: d608069dff054a14293393dc694b4f37, type: 2}
